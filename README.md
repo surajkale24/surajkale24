@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**surajkale24/surajkale24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center"><img src="https://camo.githubusercontent.com/6ffa1a65b69f17ab9adbc05fbe055807276ec4126ba5727a9bdc5d8beef5a53e/68747470733a2f2f336474657874326769662e636f6d2f6578706f727465645f737469636b6572732f5f336474657874326769665f72626b72677a696f786d6c6d2e676966" height="150" style="max-width:100%;"</h3>
 <h3 align="left">Software Engineer💻 from <a href="https://en.wikipedia.org/wiki/India">INDIA</a> 🟧⬜🟩 with a Passionate🎯 and Creative🏹 attitude✨ about Technologies</h3>
