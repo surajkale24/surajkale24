@@ -33,11 +33,6 @@
 <h2>🔆API Automation and Monitoring:</h2><p align="left"><br>
 <img src="https://www.aalpha.net/wp-content/uploads/2020/04/development-of-microservices.png" width="80" height="80" style="max-width:100%;" width="150" height="150" style="max-width:100%;">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70" height="70" style="max-width:100%;" width="150" height="150" style="max-width:100%;">
-<img src="https://developers.redhat.com/blog/wp-content/uploads/2018/05/openshift-featured.png"  width="90" height="80" style="max-width:100%;" width="160" height="150" style="max-width:100%;">
-<img src="https://miro.medium.com/max/600/1*OfFc2YQJh8c5uBtcL10Gxw.jpeg"  width="80" height="80" style="max-width:100%;" width="150" height="150" style="max-width:100%;">
-<img src="https://camunda.com/wp-content/uploads/2020/07/camunda-logo-social-update.jpg"  width="90" height="80" style="max-width:100%;" width="160" height="150" style="max-width:100%;">  
-<img src="https://blog.testproject.io/wp-content/uploads/2020/08/TestNG.jpg"  width="90" height="80" style="max-width:100%;" width="160" height="150" style="max-width:100%;">
-<img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png"  width="90" height="80" style="max-width:100%;" width="160" height="150" style="max-width:100%;"><br>
 <h2>🔆Version Control:</h2><p align="left"><br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="90" height="80" style="max-width:100%;" width="160" height="150" style="max-width:100%;">
 <img src="https://images-na.ssl-images-amazon.com/images/I/515HfOnovtL.png" width="90" height="80" style="max-width:100%;" width="160" height="150" style="max-width:100%;">
